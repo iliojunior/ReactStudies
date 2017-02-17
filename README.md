@@ -1,2 +1,2 @@
-﻿+# ReactStudies
-+Studies of React Font-End Framework
+﻿# ReactStudies
+Studies of React Font-End Framework
